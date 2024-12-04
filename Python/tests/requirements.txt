@@ -1,0 +1,7 @@
+```plaintext
+requests
+numpy
+pandas
+matplotlib
+krakenex
+pytest
